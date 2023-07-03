@@ -2,15 +2,18 @@
   <v-row>
     <v-col class="text-center">
       <img
-        src="/v.png"
+        :src="Logo"
         alt="Vuetify.js"
         class="mb-5"
-      >
-      <blockquote class="blockquote">
-        &#8220;First, solve the problem. Then, write the code.&#8221;
+        max-height="150"
+        max-width="250"
+      />
+      <blockquote class="blockquote" style="color: black">
+        &#8220;Para di kana mapagod mag lagay ng 🤸🏻 Pagod naba ang bessy ko
+        &#8221;
         <footer>
           <small>
-            <em>&mdash;John Johnson</em>
+            <em>&mdash;Lawrence B Valdez</em>
           </small>
         </footer>
       </blockquote>
@@ -20,6 +23,11 @@
 
 <script>
 export default {
-  name: 'InspirePage'
-}
+  name: "InspirePage",
+  data() {
+    return {
+      Logo: require("@/static/beshy.png"),
+    };
+  },
+};
 </script>
