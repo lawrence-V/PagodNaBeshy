@@ -1,4 +1,7 @@
 # beshyApp
+#hi 👋 gumawa ako ng simple web app para sa pag lalagay ng icon 🤸🏻 sa trend ngayon para di na kayo mahirap bali type lang kayo ng text sa text field tapos click #nyo yong button generate at  auto generate na sya HAHAHAH
+#Bakit 🤸🏻 pagod 🤸🏻 na 🤸🏻 ang 🤸🏻 beshy 🤸🏻 ko 🤸🏻 
+#Link: https://pagodnabeshy.onrender.com/
 
 ## Build Setup
 
